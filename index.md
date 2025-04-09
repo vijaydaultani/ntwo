@@ -30,4 +30,4 @@ Our roots are in Indore, but our mission is global. We believe talent is everywh
 ## 📬 Get In Touch
 
 Want to collaborate, contribute, or just say hi?  
-📧 [your-email@example.com]
+📧 [ntwo@gmail.com]
