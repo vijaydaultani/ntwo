@@ -1,0 +1,7 @@
+title: Neural Nurture
+description: We are a cutting edge AI research lab from India.
+baseurl: "" 
+url: "https://www.ntwo.ai"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
